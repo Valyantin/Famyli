@@ -1,0 +1,25 @@
+.header-color {
+    color:blue;
+}
+.selected {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 5px 0px;
+    border: 3px darkslategrey   dashed;
+}
+h1, h2 {
+    text-align: center;
+}
+li {
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 2px 10px;
+    color: salmon;
+}
+li a:hover {
+    color: seagreen;
+    background-color: goldenrod;
+}
